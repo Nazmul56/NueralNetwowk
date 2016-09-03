@@ -1,0 +1,6 @@
+package snippet;
+
+public class Snippet {
+	java.lang.UnsatisfiedLinkError: no rxtxSerial in java.library.path thrown while loading gnu.io.RXTXCommDriver
+}
+
